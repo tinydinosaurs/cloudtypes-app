@@ -4,10 +4,10 @@ import { BrowserRouter, Match, Miss } from 'react-router';
 
 import './css/index.css';
 
-import App from './components/App'
-import Home from './components/Home';
-import CloudType from './components/CloudType';
-import Nope from './components/Nope'
+import App from './scripts/components/App'
+import Home from './scripts/components/Home';
+import CloudType from './scripts/components/CloudType';
+import Nope from './scripts/components/Nope'
 
 console.log('goodbye blue monday');
 

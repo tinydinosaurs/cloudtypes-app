@@ -1,7 +1,10 @@
 import React from 'react';
 import { Link } from 'react-router';
 import data from '../data/CloudData';
+<<<<<<< HEAD
 // import '../../css/index.css'
+=======
+>>>>>>> master
 
 console.log(data.highClouds.cirrus);
 
