@@ -1,11 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400');
 * {
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
-  font-size: 16px;
-  background-color: salmon;
+}
+
+html {
+  font-size: 1.33vw;
 }
 
 body {
-  padding: 2rem;
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  font-size: 1.125rem;
+  line-height: 1.55;
+  color: rgba(0,0,0,0.65);
+}
+
+section {
+  padding: 10vw 15vw;
 }
